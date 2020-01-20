@@ -1,0 +1,51 @@
+
+
+   .caja-login{
+    text-align: center;
+    border: solid rgb(198, 240, 227);
+    background: rgb(222, 243, 237);
+    border-radius: 20px;
+    
+  
+
+  }
+  body{
+position:absolute;
+left:50%;
+top:50%;
+margin-left:-165px;
+margin-top: -210px;
+width: 400px;
+
+
+}
+p{
+    font-size: 20px;
+    color: #5AD2AE;
+   padding-bottom: 5px;
+   border-radius: 50px;
+   
+  }
+  input{
+    text-align: center;
+    border-radius: 50px;
+    width: 260px;
+    height: 30px;
+  
+  }
+  input::placeholder{
+    color: #5AD2AE;
+    opacity: 1;
+  }
+  .boton{
+    text-align: center;
+    cursor: pointer;
+    border-radius: 40px;
+    height: 34px;
+    background: -webkit-linear-gradient(top,rgb(138, 240, 138),rgb(147, 204, 154));
+    background: linear-gradient(top,rgb(138, 240, 138),rgb(147, 204, 154));
+    color: white;
+    width: 260px;
+    margin-left:19PX;
+  }
+ 
